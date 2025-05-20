@@ -25,3 +25,5 @@ Please include in your email:
 - The reason for deletion (optional)
 
 Your request will be processed within 7 business days.
+
+NOTE: You can delete your chat history in the app at any time using the “Clear all chats” button, without deleting your account.
