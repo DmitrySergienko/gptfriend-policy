@@ -1,4 +1,4 @@
-# Support – GPT Friend
+# Support – AI Friend
 
 If you have any questions, suggestions, or encounter any issues while using the app, feel free to contact us.
 
@@ -7,7 +7,7 @@ We try to reply within 24 hours.
 
 ---
 
-# Поддержка – GPT Friend
+# Поддержка – AI Friend
 
 Если у вас возникли вопросы, предложения или проблемы при использовании приложения, напишите нам:
 
